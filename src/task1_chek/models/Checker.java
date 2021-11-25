@@ -1,10 +1,7 @@
 package task1_chek.models;
 
-import java.awt.*;
-
 public class Checker {
     private boolean isKing;
-    private Color checColor;
 
     public Checker(boolean isKing) {
         this.isKing = isKing;
